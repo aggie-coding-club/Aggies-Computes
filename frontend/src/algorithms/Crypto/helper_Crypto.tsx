@@ -4,3 +4,4 @@ export function char_map(x: string) {
 }
 
 // hello!
+// hi!
